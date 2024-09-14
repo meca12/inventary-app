@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+
+th{
+  font-family: 'Raleway';
+}
+tr{
+   font-family: 'Fira Sans';
+}
+img.resposive.mg-fluid.img-thumbnail{
+  width: 30%;
+    height: auto;
+}
+.nav-link{
+  color:rgba(0,0,0,1);
+  font-family: 'Raleway';
+  font-weight: 700;
+}
+
+.dt-length{
+  display: none !important;
+}
+
+ .table-hover tbody tr:hover {
+            background-color: #e9ecef;
+        }
